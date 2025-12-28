@@ -1,0 +1,1285 @@
+    <svg class="hidden">
+      <symbol
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0"
+        y="0"
+        viewBox="0 0 511 511.9"
+        style="enable-background: new 0 0 512 512"
+        xml:space="preserve"
+        id="instagram-icon"
+      >
+        <g>
+          <path
+            d="M510.95 150.5c-1.2-27.2-5.598-45.898-11.9-62.102-6.5-17.199-16.5-32.597-29.6-45.398-12.802-13-28.302-23.102-45.302-29.5-16.296-6.3-34.898-10.7-62.097-11.898C334.648.3 325.949 0 256.449 0s-78.199.3-105.5 1.5c-27.199 1.2-45.898 5.602-62.097 11.898-17.204 6.5-32.602 16.5-45.403 29.602-13 12.8-23.097 28.3-29.5 45.3-6.3 16.302-10.699 34.9-11.898 62.098C.75 177.801.449 186.5.449 256s.301 78.2 1.5 105.5c1.2 27.2 5.602 45.898 11.903 62.102 6.5 17.199 16.597 32.597 29.597 45.398 12.801 13 28.301 23.102 45.301 29.5 16.3 6.3 34.898 10.7 62.102 11.898 27.296 1.204 36 1.5 105.5 1.5s78.199-.296 105.5-1.5c27.199-1.199 45.898-5.597 62.097-11.898a130.934 130.934 0 0 0 74.903-74.898c6.296-16.301 10.699-34.903 11.898-62.102 1.2-27.3 1.5-36 1.5-105.5s-.102-78.2-1.3-105.5zm-46.098 209c-1.102 25-5.301 38.5-8.801 47.5-8.602 22.3-26.301 40-48.602 48.602-9 3.5-22.597 7.699-47.5 8.796-27 1.204-35.097 1.5-103.398 1.5s-76.5-.296-103.403-1.5c-25-1.097-38.5-5.296-47.5-8.796C94.551 451.5 84.45 445 76.25 436.5c-8.5-8.3-15-18.3-19.102-29.398-3.5-9-7.699-22.602-8.796-47.5-1.204-27-1.5-35.102-1.5-103.403s.296-76.5 1.5-103.398c1.097-25 5.296-38.5 8.796-47.5C61.25 94.199 67.75 84.1 76.352 75.898c8.296-8.5 18.296-15 29.398-19.097 9-3.5 22.602-7.7 47.5-8.801 27-1.2 35.102-1.5 103.398-1.5 68.403 0 76.5.3 103.403 1.5 25 1.102 38.5 5.3 47.5 8.8 11.097 4.098 21.199 10.598 29.398 19.098 8.5 8.301 15 18.301 19.102 29.403 3.5 9 7.699 22.597 8.8 47.5 1.2 27 1.5 35.097 1.5 103.398s-.3 76.301-1.5 103.301zm0 0"
+            opacity="1"
+            data-original="#000000"
+            class=""
+          ></path>
+          <path
+            d="M256.45 124.5c-72.598 0-131.5 58.898-131.5 131.5s58.902 131.5 131.5 131.5c72.6 0 131.5-58.898 131.5-131.5s-58.9-131.5-131.5-131.5zm0 216.8c-47.098 0-85.302-38.198-85.302-85.3s38.204-85.3 85.301-85.3c47.102 0 85.301 38.198 85.301 85.3s-38.2 85.3-85.3 85.3zM423.852 119.3c0 16.954-13.747 30.7-30.704 30.7-16.953 0-30.699-13.746-30.699-30.7 0-16.956 13.746-30.698 30.7-30.698 16.956 0 30.703 13.742 30.703 30.699zm0 0"
+            opacity="1"
+            data-original="#000000"
+            class=""
+          ></path>
+        </g>
+      </symbol>
+
+      <symbol
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0"
+        y="0"
+        viewBox="0 0 24 24"
+        style="enable-background: new 0 0 512 512"
+        xml:space="preserve"
+        id="linkdine-icon"
+      >
+        <g>
+          <path
+            d="M23.994 24v-.001H24v-8.802c0-4.306-.927-7.623-5.961-7.623-2.42 0-4.044 1.328-4.707 2.587h-.07V7.976H8.489v16.023h4.97v-7.934c0-2.089.396-4.109 2.983-4.109 2.549 0 2.587 2.384 2.587 4.243V24zM.396 7.977h4.976V24H.396zM2.882 0C1.291 0 0 1.291 0 2.882s1.291 2.909 2.882 2.909 2.882-1.318 2.882-2.909A2.884 2.884 0 0 0 2.882 0z"
+            opacity="1"
+            data-original="#000000"
+            class=""
+          ></path>
+        </g>
+      </symbol>
+
+      <symbol
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0"
+        y="0"
+        viewBox="0 0 512 512"
+        style="enable-background: new 0 0 512 512"
+        xml:space="preserve"
+        id="telegram-icon"
+      >
+        <g>
+          <path
+            d="M501.974 41.949a30.939 30.939 0 0 0-30.555-6.565L21.231 183.785C8.962 187.829.642 198.781.035 211.684c-.606 12.904 6.649 24.589 18.483 29.768l111.335 48.712 33.591 155.795c1.395 6.472 4.68 12.237 11.639 14.01 7.039 1.793 12.012-2.054 17.264-5.986l82.62-61.865 96.589 79.039c5.626 4.606 12.502 7.008 19.513 7.008a31.091 31.091 0 0 0 9.986-1.657c10.166-3.447 17.702-11.744 20.159-22.193L511.18 71.813a30.938 30.938 0 0 0-9.206-29.864zm-302.43 276.128c-.055.13-.109.277-.16.453l-18.624 65.068-20.784-96.395 142.917-79.405-99.921 104.478a15.03 15.03 0 0 0-3.428 5.801zm5.911 88.525 8.459-29.555 8.091-28.269 28.991 23.724-45.541 34.1zM481.908 64.927l-89.965 382.502c-.045.19-.105.452-.545.601-.436.148-.648-.021-.798-.145l-105.691-86.488-.008-.007-48.969-40.072L393.255 156.82a15.035 15.035 0 0 0 1.035-19.579 15.034 15.034 0 0 0-19.204-3.955L142.135 262.715 30.572 213.902c-.34-.148-.527-.231-.5-.806.027-.573.221-.638.573-.754l450.188-148.4c.218-.071.464-.153.826.177.362.332.302.584.249.808z"
+            opacity="1"
+            data-original="#000000"
+          ></path>
+        </g>
+      </symbol>
+
+      <symbol
+        xmlns="http://www.w3.org/2000/svg"
+        version="1.1"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0"
+        y="0"
+        viewBox="0 0 155.139 155.139"
+        style="enable-background: new 0 0 512 512"
+        xml:space="preserve"
+        id="facebook-icon"
+      >
+        <g>
+          <path
+            d="M89.584 155.139V84.378h23.742l3.562-27.585H89.584V39.184c0-7.984 2.208-13.425 13.67-13.425l14.595-.006V1.08C115.325.752 106.661 0 96.577 0 75.52 0 61.104 12.853 61.104 36.452v20.341H37.29v27.585h23.814v70.761h28.48z"
+            style="enable-background: new 0 0 512 512"
+            data-original="#010002"
+          ></path>
+        </g>
+      </symbol>
+
+      <symbol>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          version="1.1"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0"
+          y="0"
+          viewBox="0 0 682.667 682.667"
+          style="enable-background: new 0 0 512 512"
+          xml:space="preserve"
+          id="check-mark"
+        >
+          <g>
+            <defs>
+              <clipPath id="b" clipPathUnits="userSpaceOnUse">
+                <path
+                  d="M0 512h512V0H0Z"
+                  fill="#ad5353"
+                  opacity="1"
+                  data-original="#000000"
+                  class=""
+                ></path>
+              </clipPath>
+            </defs>
+            <mask id="a">
+              <rect
+                width="100%"
+                height="100%"
+                fill="#ffffff"
+                opacity="1"
+                data-original="#ffffff"
+                class=""
+              ></rect>
+            </mask>
+            <g mask="url(#a)">
+              <path
+                d="m0 0-134.174-134.174-63.873 63.872"
+                style="
+                  stroke-width: 40;
+                  stroke-linecap: round;
+                  stroke-linejoin: round;
+                  stroke-miterlimit: 10;
+                  stroke-dasharray: none;
+                  stroke-opacity: 1;
+                "
+                transform="matrix(1.33333 0 0 -1.33333 473.365 251.884)"
+                fill="none"
+                stroke="#ad5353"
+                stroke-width="40"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-miterlimit="10"
+                stroke-dasharray="none"
+                stroke-opacity=""
+                data-original="#000000"
+                class=""
+                opacity="1"
+              ></path>
+              <g
+                clip-path="url(#b)"
+                transform="matrix(1.33333 0 0 -1.33333 0 682.667)"
+              >
+                <path
+                  d="M0 0c0-130.339-105.661-236-236-236S-472-130.339-472 0s105.661 236 236 236S0 130.339 0 0Z"
+                  style="
+                    stroke-width: 40;
+                    stroke-linecap: round;
+                    stroke-linejoin: round;
+                    stroke-miterlimit: 10;
+                    stroke-dasharray: none;
+                    stroke-opacity: 1;
+                  "
+                  transform="translate(492 256)"
+                  fill="none"
+                  stroke="#ad5353"
+                  stroke-width="40"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-miterlimit="10"
+                  stroke-dasharray="none"
+                  stroke-opacity=""
+                  data-original="#000000"
+                  class=""
+                  opacity="1"
+                ></path>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </symbol>
+      <symbol>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          version="1.1"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0"
+          y="0"
+          viewBox="0 0 494.001 494.001"
+          style="enable-background: new 0 0 512 512"
+          xml:space="preserve"
+          id="email-icon"
+        >
+          <g>
+            <path
+              d="M445.288 89.009H48.709C21.82 89.039.03 110.829 0 137.718v218.564c.03 26.888 21.82 48.679 48.709 48.709h396.579c26.89-.029 48.682-21.819 48.712-48.709V137.718c-.03-26.889-21.822-48.679-48.712-48.709zM332.824 247l140.458-118.303a29.266 29.266 0 0 1 1.421 9.02v218.564a29.295 29.295 0 0 1-1.42 9.02zm112.464-138.694a29.256 29.256 0 0 1 16.346 4.972L247 294.059 32.366 113.278a29.241 29.241 0 0 1 16.344-4.971zM20.719 365.305a29.278 29.278 0 0 1-1.421-9.022V137.718a29.302 29.302 0 0 1 1.421-9.021L161.175 247zm27.99 20.39a29.244 29.244 0 0 1-16.343-4.967L176.152 259.62l64.632 54.436a9.648 9.648 0 0 0 12.431 0l64.632-54.437 143.785 121.103a29.243 29.243 0 0 1-16.345 4.972H48.709z"
+              fill="#ffffff"
+              opacity="1"
+              data-original="#000000"
+              class=""
+            ></path>
+          </g>
+        </svg>
+      </symbol>
+      <symbol>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          version="1.1"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0"
+          y="0"
+          viewBox="0 0 152 152"
+          style="enable-background: new 0 0 512 512"
+          xml:space="preserve"
+          id="white-email"
+        >
+          <g>
+            <path
+              d="m97.2 76.7 43.8 27.7V47.8zM11 47.8v56.6l43.8-27.7zM132.9 31.3H19.1c-4 0-7.3 3-7.9 6.9L76 80.9l64.8-42.7c-.6-3.9-4-6.9-7.9-6.9zM89.7 81.6l-11.5 7.6c-.7.4-1.4.7-2.2.7s-1.6-.2-2.2-.7l-11.5-7.6-51 32.3c.6 3.9 3.9 6.8 7.9 6.9H133c4 0 7.3-2.9 7.9-6.9z"
+              fill="#ffffff"
+              opacity="1"
+              data-original="#000000"
+              class=""
+            ></path>
+          </g>
+        </svg>
+      </symbol>
+      <symbol>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          version="1.1"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0"
+          y="0"
+          viewBox="0 0 512 512"
+          style="enable-background: new 0 0 512 512"
+          xml:space="preserve"
+          id="location-icon"
+        >
+          <g>
+            <path
+              d="M256 0C153.755 0 70.573 83.182 70.573 185.426c0 126.888 165.939 313.167 173.004 321.035 6.636 7.391 18.222 7.378 24.846 0 7.065-7.868 173.004-194.147 173.004-321.035C441.425 83.182 358.244 0 256 0zm0 278.719c-51.442 0-93.292-41.851-93.292-93.293S204.559 92.134 256 92.134s93.291 41.851 93.291 93.293-41.85 93.292-93.291 93.292z"
+              fill="#ffffff"
+              opacity="1"
+              data-original="#000000"
+              class=""
+            ></path>
+          </g>
+        </svg>
+      </symbol>
+      <symbol>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          version="1.1"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          x="0"
+          y="0"
+          viewBox="0 0 513.64 513.64"
+          style="enable-background: new 0 0 512 512"
+          xml:space="preserve"
+          id="phone-icon"
+        >
+          <g>
+            <path
+              d="m499.66 376.96-71.68-71.68c-25.6-25.6-69.12-15.359-79.36 17.92-7.68 23.041-33.28 35.841-56.32 30.72-51.2-12.8-120.32-79.36-133.12-133.12-7.68-23.041 7.68-48.641 30.72-56.32 33.28-10.24 43.52-53.76 17.92-79.36l-71.68-71.68c-20.48-17.92-51.2-17.92-69.12 0L18.38 62.08c-48.64 51.2 5.12 186.88 125.44 307.2s256 176.641 307.2 125.44l48.64-48.64c17.921-20.48 17.921-51.2 0-69.12z"
+              fill="#ffffff"
+              opacity="1"
+              data-original="#000000"
+              class=""
+            ></path>
+          </g>
+        </svg>
+      </symbol>
+    </svg>
+
+    <header class="">
+      <div
+        class="pt-14 fixed left-0 w-90 bg-linear-to-br from-black via-black to-red-950 h-full flex flex-col items-center border-r border-zinc-700"
+      >
+        <div class="profile h-60">
+          <img
+            class="w-full h-full rounded-full outline-solid outline-stone-700"
+            src="/public/images/profile.jpg"
+            alt="profile"
+          />
+        </div>
+        <div class="w-full px-16 pt-8">
+          <ul
+            class="text-white flex flex-col gap-3 text-lg border-b pb-7 border-zinc-700"
+          >
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Home</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Features</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >portfolio</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Resume</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Clients</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Pricing</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Blog</a
+              >
+            </li>
+            <li>
+              <a
+                class="hover:text-pink-600 transition-all duration-300 ease-in-out"
+                href="#"
+                >Contact</a
+              >
+            </li>
+          </ul>
+          <!-- icons -->
+          <div>
+            <div class="py-7">
+              <h2 class="text-white">Find With Me</h2>
+            </div>
+            <ul class="flex gap-4">
+              <li
+                class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+              >
+                <a href="#">
+                  <svg class="size-6 fill-white">
+                    <use xlink:href="#instagram-icon"></use>
+                  </svg>
+                </a>
+              </li>
+
+              <li
+                class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+              >
+                <a href="#">
+                  <svg class="size-6 fill-white">
+                    <use xlink:href="#linkdine-icon"></use>
+                  </svg>
+                </a>
+              </li>
+
+              <li
+                class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+              >
+                <a href="#">
+                  <svg class="size-6 fill-white">
+                    <use xlink:href="#telegram-icon"></use>
+                  </svg>
+                </a>
+              </li>
+
+              <li
+                class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+              >
+                <a href="#">
+                  <svg class="size-6 fill-white">
+                    <use xlink:href="#facebook-icon"></use>
+                  </svg>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="ps-90">
+      <section>
+        <div
+          class="bg-zinc-950 w-full h-dvh flex justify-center items-center relative"
+        >
+          <div class="inline-flex flex-col gap-5 pl-30">
+            <h3 class="text-4xl font-bold text-white">HELLO</h3>
+            <h2 class="text-6xl font-bold text-white">
+              i’m Jane Cooper<br />
+              A <span class="text-pink-700">Web Designer</span>
+            </h2>
+            <p class="text-gray-500 w-7/12 text-xl">
+              A personal portfolio is a collection of your work, achievements,
+              and skills that highlights your abilities and professional growth.
+              It serves as
+            </p>
+            <button
+              class="bg-pink-700 text-white rounded-2xl py-3 px-8 w-fit cursor-pointer font-bold"
+            >
+              view profile
+            </button>
+          </div>
+
+          <div
+            class="absolute end-0 bottom-0 h-full flex items-end flex-col justify-end"
+          >
+            <div class="relative">
+              <h1
+                class="text-center text-6xl text-white absolute -translate-x-1/2 left-2/4 top-45 w-full z-10"
+              >
+                WEB DESIGNER
+              </h1>
+              <div class="z-20 relative">
+                <img src="/public/images/banner-user-image-02.png" alt="user" />
+              </div>
+              <h2
+                class="text-center text-6xl text-white absolute -translate-x-1/2 left-2/4 bottom-20 w-full z-30"
+              >
+                WEB DESIGNER
+              </h2>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-black">
+        <div
+          class="grid grid-cols-2 place-items-center gap-5 pt-30 pb-20 px-30"
+        >
+          <div class="bg-zinc-900 p-10 rounded-3xl">
+            <div class="flex pb-4 text-white font-bold text-xl">
+              <span class="pr-3">01.</span>
+              <h2>Success Architects</h2>
+            </div>
+            <div class="text-zinc-400">
+              <p>
+                Business consulting consultants provide expert advice and guida
+                the a businesses to help theme their performance efficiency
+              </p>
+            </div>
+          </div>
+
+          <div class="bg-zinc-900 p-10 rounded-3xl">
+            <div class="flex pb-4 text-white font-bold text-xl">
+              <span class="pr-3">02.</span>
+              <h2>Success Architects</h2>
+            </div>
+            <div class="text-zinc-400">
+              <p>
+                Business consulting consultants provide expert advice and guida
+                the a businesses to help theme their performance efficiency
+              </p>
+            </div>
+          </div>
+
+          <div class="bg-zinc-900 p-10 rounded-3xl">
+            <div class="flex pb-4 text-white font-bold text-xl">
+              <span class="pr-3">03.</span>
+              <h2>Success Architects</h2>
+            </div>
+            <div class="text-zinc-400">
+              <p>
+                Business consulting consultants provide expert advice and guida
+                the a businesses to help theme their performance efficiency
+              </p>
+            </div>
+          </div>
+
+          <div class="bg-zinc-900 p-10 rounded-3xl">
+            <div class="flex pb-4 text-white font-bold text-xl">
+              <span class="pr-3">04.</span>
+              <h2>Ui/visual Design</h2>
+            </div>
+            <div class="text-zinc-400">
+              <p>
+                Business consulting consultants provide expert advice and guida
+                the a businesses to help theme their performance efficiency
+              </p>
+            </div>
+          </div>
+
+          <div class="bg-zinc-900 p-10 rounded-3xl">
+            <div class="flex pb-4 text-white font-bold text-xl">
+              <span class="pr-3">05.</span>
+              <h2>Branding Design</h2>
+            </div>
+            <div class="text-zinc-400">
+              <p>
+                Business consulting consultants provide expert advice and guida
+                the a businesses to help theme their performance efficiency
+              </p>
+            </div>
+          </div>
+
+          <div class="bg-zinc-900 p-10 rounded-3xl">
+            <div class="flex pb-4 text-white font-bold text-xl">
+              <span class="pr-3">06.</span>
+              <h2>Motion Design</h2>
+            </div>
+            <div class="text-zinc-400">
+              <p>
+                Business consulting consultants provide expert advice and guida
+                the a businesses to help theme their performance efficiency
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-black">
+        <div class="px-30">
+          <div class="text-center m-auto py-15">
+            <div>
+              <p class="text-pink-700 text-2xl">Latest Portfolio</p>
+            </div>
+            <div class="w-2/4 m-auto">
+              <h2 class="text-5xl font-bold text-white py-4">
+                Transforming Ideas into <br />Edxceptional
+              </h2>
+              <p class="text-base text-zinc-400">
+                Business consulting consultants provide expert advice and guida
+                businesses to help them improve their performance, efficiency,
+                and organizational
+              </p>
+            </div>
+          </div>
+
+          <!-- portfoli -->
+
+          <div class="grid grid-cols-2 place-items-center gap-5">
+            <div class="w-150">
+              <div
+                class="w-full h-125 p-6 bg-zinc-900 rounded-3xl border-2 border-zinc-700"
+              >
+                <img
+                  class="w-full h-full rounded-3xl object-cover cursor-pointer transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-105"
+                  src="/public/images/portfoli-img-1.jpg"
+                  alt="portfoli"
+                />
+              </div>
+              <div class="flex items-center justify-between p-2.5">
+                <div class="">
+                  <h3 class="text-white text-xl pb-1.5 font-bold">
+                    Digital Transformation Advisors
+                  </h3>
+                  <p class="text-zinc-400 text-lg">Development Coaches</p>
+                </div>
+                <div class="border-2 border-zinc-700 rounded-xl">
+                  <button class="cursor-pointer p-2 text-white">icon</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="w-150">
+              <div
+                class="w-full h-125 p-6 bg-zinc-900 rounded-3xl border-2 border-zinc-700"
+              >
+                <img
+                  class="w-full h-full rounded-3xl object-cover cursor-pointer transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-105"
+                  src="/public/images/portfoli-img-2.jpg"
+                  alt="portfoli"
+                />
+              </div>
+              <div class="flex items-center justify-between p-2.5">
+                <div class="">
+                  <h3 class="text-white text-xl pb-1.5 font-bold">
+                    My work is driven by the belief that thoughtful.
+                  </h3>
+                  <p class="text-zinc-400 text-lg">Development App</p>
+                </div>
+                <div class="border-2 border-zinc-700 rounded-xl">
+                  <button class="cursor-pointer p-2 text-white">icon</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="w-150">
+              <div class="w-full h-125 p-6 bg-zinc-900 rounded-3xl">
+                <img
+                  class="w-full h-full rounded-3xl object-cover cursor-pointer transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-105"
+                  src="/public/images/portfoli-img-3.jpg"
+                  alt="portfoli"
+                />
+              </div>
+              <div class="flex items-center justify-between p-2.5">
+                <div class="">
+                  <h3 class="text-white text-xl pb-1.5 font-bold">
+                    In this portfolio, you’ll find a curated selection
+                  </h3>
+                  <p class="text-zinc-400 text-lg">Web Design</p>
+                </div>
+                <div class="border-2 border-zinc-700 rounded-xl">
+                  <button class="cursor-pointer p-2 text-white">icon</button>
+                </div>
+              </div>
+            </div>
+
+            <div class="w-150">
+              <div
+                class="w-full h-125 p-6 bg-zinc-900 rounded-3xl object-cover"
+              >
+                <img
+                  class="w-full h-full rounded-3xl cursor-pointer transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-105"
+                  src="/public/images/portfoli-img-4.jpg"
+                  alt="portfoli"
+                />
+              </div>
+              <div class="flex items-center justify-between p-2.5">
+                <div class="">
+                  <h3 class="text-white text-xl pb-1.5 font-bold">
+                    I’ve had the privilege of working with various
+                  </h3>
+                  <p class="text-zinc-400 text-lg">App Development</p>
+                </div>
+                <div class="border-2 border-zinc-700 rounded-xl">
+                  <button class="cursor-pointer p-2 text-white">icon</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-black">
+        <div class="px-30">
+          <div class="text-center m-auto py-15">
+            <div>
+              <p class="text-pink-700 text-2xl">Education & Experience</p>
+            </div>
+            <div class="w-2/4 m-auto">
+              <h2 class="text-5xl font-bold text-white py-4">
+                Empowering Creativity <br />through
+              </h2>
+              <p class="text-base text-zinc-400">
+                Business consulting consultants provide expert advice and guida
+                businesses to help them improve their performance, efficiency,
+                and organizational
+              </p>
+            </div>
+          </div>
+
+          <div>
+            <div class="text-white flex items-center gap-5 py-10">
+              <h3 class="text-3xl font-bold">Education</h3>
+              <span>
+                <img
+                  class="opacity-60"
+                  src="/public/images/custom-line.png"
+                  alt="custom-line"
+                />
+              </span>
+            </div>
+            <div class="grid grid-cols-2 place-items-center gap-5 pb-20">
+              <div class="bg-zinc-900 p-10 rounded-3xl">
+                <div class="flex flex-col pb-4 text-white font-bold text-lg">
+                  <h2 class="text-white">Trainer Marketing</h2>
+                  <span class="pr-3">2005-2009</span>
+                </div>
+                <div class="text-zinc-400">
+                  <p>
+                    A personal portfolio is a curated collection of an
+                    individual's professional work, showcasing their skills,
+                    experience A personal portfolio.
+                  </p>
+                </div>
+              </div>
+
+              <div class="bg-zinc-900 p-10 rounded-3xl">
+                <div class="flex flex-col pb-4 text-white font-bold text-lg">
+                  <h2 class="text-white">Assistant Director</h2>
+                  <span class="pr-3">2010-2014</span>
+                </div>
+                <div class="text-zinc-400">
+                  <p>
+                    A personal portfolio is a curated collection of an
+                    individual's professional work, showcasing their skills,
+                    experience A personal portfolio.
+                  </p>
+                </div>
+              </div>
+
+              <div class="bg-zinc-900 p-10 rounded-3xl">
+                <div class="flex flex-col pb-4 text-white font-bold text-lg">
+                  <h2 class="text-white">Design Assistant</h2>
+                  <span class="pr-3">2008-2012</span>
+                </div>
+                <div class="text-zinc-400">
+                  <p>
+                    I’ve had the privilege of working with various clients, from
+                    startups to established companies, helping bring their
+                    visions to life.
+                  </p>
+                </div>
+              </div>
+
+              <div class="bg-zinc-900 p-10 rounded-3xl">
+                <div class="flex flex-col pb-4 text-white font-bold text-lg">
+                  <h2 class="text-white">Design Assistant</h2>
+                  <span class="pr-3">2008-2012</span>
+                </div>
+                <div class="text-zinc-400">
+                  <p>
+                    Each project here showcases my commitment to excellence and
+                    adaptability, tailored to meet each client’s unique needs a
+                    personal.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-black">
+        <div class="px-30">
+          <div class="grid grid-cols-2 gap-5 pb-24">
+            <div class="">
+              <div class="text-white flex items-center gap-5 pb-5">
+                <h3 class="text-3xl font-bold">Education</h3>
+                <span>
+                  <img
+                    class="opacity-60"
+                    src="/public/images/custom-line.png"
+                    alt="custom-line"
+                  />
+                </span>
+              </div>
+
+              <div class="pt-5 leading-8">
+                <p class="text-pink-700">experience</p>
+                <h2 class="font-bold text-xl text-white">
+                  Soft Tech (2 Years)
+                </h2>
+                <p class="text-white">UI/UX Designer</p>
+                <p class="pt-2.5 text-zinc-400 w-3/4">
+                  Duis aute irure dolor in reprehenderit in voluptate velit esse
+                  cillum desi dolore eu fugiat nulla pariatu Duis aute irure.
+                </p>
+              </div>
+
+              <div class="pt-5 mt-5 leading-8">
+                <p class="text-pink-700">experience</p>
+                <h2 class="font-bold text-xl text-white">
+                  ModernTech (3 Years)
+                </h2>
+                <p class="text-white">App Developer</p>
+                <p class="pt-2.5 text-zinc-400 w-3/4">
+                  In this portfolio, you’ll find a curated selection of projects
+                  that highlight my skills in [Main Areas, e.g., responsive web
+                  design.
+                </p>
+              </div>
+            </div>
+
+            <div class="">
+              <img
+                class="rounded-3xl"
+                src="/public/images/expert-img.jpg"
+                alt="expert"
+              />
+            </div>
+          </div>
+
+          <div
+            class="grid grid-cols-4 place-items-center border border-zinc-700 *:flex *:justify-center *:items-center *:h-full *:w-full"
+          >
+            <div class="border-r border-b border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-1.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="border-r border-b border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-2.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="border-r border-b border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-3.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="border-r border-b border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-4.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="border-r border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-5.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="border-r border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-6.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="border-r border-zinc-700">
+              <img
+                class="py-10"
+                src="/public/images/company-logo-7.svg"
+                alt="logo"
+              />
+            </div>
+            <div class="">
+              <img src="/public/images/company-logo-8.svg" alt="logo" />
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-black">
+        <div class="px-30">
+          <div class="text-center m-auto py-20">
+            <div>
+              <p class="text-pink-700 text-2xl">My Price plan</p>
+            </div>
+            <div class="w-2/4 m-auto">
+              <h2 class="text-5xl font-bold text-white py-4">
+                Enhancing Collaboration <br />between Remote
+              </h2>
+            </div>
+          </div>
+          <!-- box-1 -->
+          <div class="grid grid-cols-3 place-items-center gap-5">
+            <div class="bg-zinc-900 w-full px-10 py-15 rounded-2xl">
+              <div class="">
+                <div class="text-white pb-5 border-b border-zinc-700 font-bold">
+                  <h3 class="text-lg">Starter</h3>
+                  <div class="flex gap-1 py-2.5 text-4xl">
+                    <span>$</span>
+                    <p>5.00</p>
+                  </div>
+                  <h3 class="text-lg">Per Month</h3>
+                </div>
+
+                <div class="py-10 leading-10 text-zinc-400">
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>5 Social Media Account</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>Free Platform Access</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>24/7 Customer Support</p>
+                  </div>
+                </div>
+                <div>
+                  <button
+                    class="cursor-pointer text-white py-4 px-8 bg-zinc-800 border border-zinc-700 hover:bg-pink-700 rounded-4xl"
+                  >
+                    Get Started
+                  </button>
+                </div>
+              </div>
+            </div>
+            <!-- box-2 -->
+            <div class="bg-zinc-900 w-full px-10 py-15 rounded-2xl">
+              <div class="">
+                <div class="text-white pb-5 border-b border-zinc-700 font-bold">
+                  <h3 class="text-lg">Premium</h3>
+                  <div class="flex gap-1 py-2.5 text-4xl">
+                    <span>$</span>
+                    <p>230.00</p>
+                  </div>
+                  <h3 class="text-lg">Per Month</h3>
+                </div>
+
+                <div class="py-10 leading-10 text-zinc-400">
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>5 Social Media Account</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>Free Platform Access</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>Marketing Platform</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>24/7 Customer Support</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>Life time support</p>
+                  </div>
+                </div>
+                <div>
+                  <button
+                    class="cursor-pointer text-white py-4 px-8 border border-zinc-700 bg-pink-700 rounded-4xl"
+                  >
+                    Get Started
+                  </button>
+                </div>
+              </div>
+            </div>
+            <!-- box-3 -->
+            <div class="bg-zinc-900 w-full px-10 py-15 rounded-2xl">
+              <div class="">
+                <div class="text-white pb-5 border-b border-zinc-700 font-bold">
+                  <h3 class="text-lg">Basic</h3>
+                  <div class="flex gap-1 py-2.5 text-4xl">
+                    <span>$</span>
+                    <p>45.00</p>
+                  </div>
+                  <h3 class="text-lg">Per Month</h3>
+                </div>
+
+                <div class="py-10 leading-10 text-zinc-400">
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>5 Social Media Account</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>Free Platform Access</p>
+                  </div>
+
+                  <div class="flex items-center gap-1.5">
+                    <svg class="size-5 fill-red">
+                      <use xlink:href="#check-mark"></use>
+                    </svg>
+                    <p>24/7 Customer Support</p>
+                  </div>
+                </div>
+                <div>
+                  <button
+                    class="cursor-pointer text-white py-4 px-8 bg-zinc-800 border border-zinc-700 hover:bg-pink-700 rounded-4xl"
+                  >
+                    Get Started
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="bg-black">
+        <div class="px-30 pb-20">
+          <div class="text-center m-auto py-20">
+            <div>
+              <p class="text-pink-700 text-2xl">Blog and News</p>
+            </div>
+            <div class="m-auto">
+              <h2 class="text-5xl font-bold text-white py-4">
+                Elevating Personal Branding the <br />through Powerful
+                Portfolios
+              </h2>
+            </div>
+          </div>
+
+          <div class="grid grid-cols-3 place-items-center pb-20 gap-7">
+            <!-- box-1 -->
+            <div class="rounded-3xl border border-zinc-700">
+              <div>
+                <a href="#">
+                  <img
+                    class="rounded-3xl w-full"
+                    src="/public/images/blog-img-4.jpg"
+                    alt="blog"
+                  />
+                </a>
+              </div>
+              <div class="p-8">
+                <h2 class="text-white font-bold text-2xl pb-3">
+                  Let’s bring your ideas to life! Contact me, and let’s
+                </h2>
+                <a class="text-zinc-400" href="#">Read More </a>
+              </div>
+            </div>
+            <!-- box-2 -->
+            <div class="rounded-3xl border border-zinc-700">
+              <div>
+                <a href="#">
+                  <img
+                    class="rounded-3xl w-full"
+                    src="/public/images/blog-img-5.jpg"
+                    alt="blog"
+                  />
+                </a>
+              </div>
+              <div class="p-8">
+                <h2 class="text-white font-bold text-2xl pb-3">
+                  Inspiring the World, One Project at a Time for the man
+                </h2>
+                <a class="text-zinc-400" href="#">Read More </a>
+              </div>
+            </div>
+            <!-- box-3 -->
+            <div class="rounded-3xl border border-zinc-700">
+              <div>
+                <a href="#">
+                  <img
+                    class="rounded-3xl w-full"
+                    src="/public/images/blog-img-6.jpg"
+                    alt="blog"
+                  />
+                </a>
+              </div>
+              <div class="p-8">
+                <h2 class="text-white font-bold text-2xl pb-3">
+                  Each one showcases my approach and dedication man
+                </h2>
+                <a class="text-zinc-400" href="#">Read More </a>
+              </div>
+            </div>
+          </div>
+          <!-- info -->
+          <div
+            class="py-15 px-10 bg-zinc-900 grid grid-cols-2 rounded-3xl gap-5"
+          >
+            <div class="flex flex-col gap-5 pr-8 mt-15">
+              <p class="text-lg text-pink-700">GET IN TOUCH</p>
+              <h2 class="text-5xl text-white font-bold">
+                Elevate your brand with Me
+              </h2>
+              <p class="text-lg text-zinc-300 w-3/4">
+                ished fact that a reader will be distrol acted bioiiy desig
+                ished fact that a reader will acted ished fact that a reader
+                will be distrol acted
+              </p>
+            </div>
+
+            <div class="w-full">
+              <div
+                class="grid grid-cols-2 grid-rows-4 *:w-full *:p-5 *:bg-zink-900 *:border *:border-zinc-700 *:rounded-3xl gap-5 text-zinc-300 *:focus-within:border-pink-800 *:transition-colors *:duration-300"
+              >
+                <div class="">
+                  <input
+                    class="outline-none w-full bg-transparent"
+                    type="text"
+                    placeholder="Your Name"
+                  />
+                </div>
+                <div class="">
+                  <input
+                    class="outline-none w-full"
+                    type="text"
+                    placeholder="Phone Number"
+                  />
+                </div>
+                <div class="">
+                  <input
+                    class="outline-none w-full"
+                    type="text"
+                    placeholder="Your Email"
+                  />
+                </div>
+                <div class="">
+                  <input
+                    class="outline-none w-full"
+                    type="text"
+                    placeholder="Subject"
+                  />
+                </div>
+                <div class="col-span-2 row-span-2">
+                  <input
+                    class="outline-none w-full h-full"
+                    type="text"
+                    placeholder="Your Message"
+                  />
+                </div>
+              </div>
+              <div>
+                <button
+                  class="bg-pink-700 p-5 m-auto w-full mt-5 rounded-4xl text-white cursor-pointer"
+                >
+                  Appointment Now
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="bg-zinc-900">
+        <div class="px-30 pt-10">
+          <div
+            class="grid grid-cols-3 place-items-center pb-30 border-b border-zinc-500"
+          >
+            <div class="">
+              <div>
+                <img
+                  class="pb-5"
+                  src="/public/images/white-logo-reeni.png"
+                  alt="logo"
+                />
+                <h2 class="text-4xl text-white">
+                  <span class="font-bold">Get Ready </span>To Create <br />
+                  Great
+                </h2>
+              </div>
+
+              <div class="flex pt-10 pb-5 border-b border-zinc-500">
+                <form class="w-full text-white">
+                  <input
+                    class="w-full pr-5"
+                    type="text"
+                    placeholder="Email Adress"
+                  />
+                </form>
+                <svg class="size-5 fill-white">
+                  <use xlink:href="#email-icon"></use>
+                </svg>
+              </div>
+            </div>
+
+            <div class="text-white leading-9">
+              <h2 class="pb-5 text-xl">Quick Link</h2>
+              <a href="">
+                <p>About Me</p>
+              </a>
+              <a href="">
+                <p>Service</p>
+              </a>
+              <a href="">
+                <p>Contact Me</p>
+              </a>
+              <a href="">
+                <p>Blog Post</p>
+              </a>
+              <a href="">
+                <p>Pricing</p>
+              </a>
+            </div>
+
+            <div class="text-white">
+              <h2 class="pb-8 text-xl">Contact</h2>
+              <ul class="*:flex *:items-center *:gap-3">
+                <li>
+                  <span class="p-2 rounded-full border border-zinc-500">
+                    <svg class="size-5 fill-white">
+                      <use xlink:href="#email-icon"></use>
+                    </svg>
+                  </span>
+                  <a href="#">
+                    <p>example@gmail.com</p>
+                  </a>
+                </li>
+
+                <li class="py-5">
+                  <span class="p-2 rounded-full border border-zinc-500">
+                    <svg class="size-5 fill-white">
+                      <use xlink:href="#location-icon"></use>
+                    </svg>
+                  </span>
+                  <a href="#">
+                    <p>3891 Ranchview Dr. Richardson</p>
+                  </a>
+                </li>
+
+                <li>
+                  <span class="p-2 rounded-full border border-zinc-500">
+                    <svg class="size-5 fill-white">
+                      <use xlink:href="#phone-icon"></use>
+                    </svg>
+                  </span>
+                  <a href="#">
+                    <p>01245789321</p>
+                  </a>
+                </li>
+              </ul>
+
+              <div>
+                <ul class="flex gap-4 pt-5">
+                  <li
+                    class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+                  >
+                    <a href="#">
+                      <svg class="size-5 fill-white">
+                        <use xlink:href="#instagram-icon"></use>
+                      </svg>
+                    </a>
+                  </li>
+
+                  <li
+                    class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+                  >
+                    <a href="#">
+                      <svg class="size-5 fill-white">
+                        <use xlink:href="#linkdine-icon"></use>
+                      </svg>
+                    </a>
+                  </li>
+
+                  <li
+                    class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+                  >
+                    <a href="#">
+                      <svg class="size-5 fill-white">
+                        <use xlink:href="#telegram-icon"></use>
+                      </svg>
+                    </a>
+                  </li>
+
+                  <li
+                    class="p-2.5 bg-zinc-700 rounded-full hover:bg-pink-900 hover:rounded-full"
+                  >
+                    <a href="#">
+                      <svg class="size-5 fill-white">
+                        <use xlink:href="#facebook-icon"></use>
+                      </svg>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="flex justify-between items-center gap-3 py-5">
+            <div class="flex">
+              <span class="text-white">©</span>
+              <a class="text-white font-bold pr-3" href="#"> InversWeb </a>
+              <p class="text-zinc-400">2025 | All Rights Reserved</p>
+            </div>
+
+            <ul class="flex gap-3 text-white">
+              <li>
+                <a href="">Trams & Condition</a>
+              </li>
+              <li>
+                <a href="">Privacy Policy</a>
+              </li>
+              <li>
+                <a href="">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </footer>
+    </main>
