@@ -2,13 +2,13 @@
   "name": "new-30-tailwind",
   "version": "1.0.0",
   "scripts": {
-    "build": "node ./node_modules/@tailwindcss/cli/dist/index.js -i ./src/styles/main.css -o ./public/output.css --minify"
+    "build": "npm exec tailwindcss -i ./src/styles/main.css -o ./public/output.css --minify"
   },
   "engines": {
     "node": "20.x"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.14",
-    "tailwindcss": "^4.1.14"
+    "tailwindcss": "^4.1.14",
+    "@tailwindcss/cli": "^4.1.14"
   }
 }
